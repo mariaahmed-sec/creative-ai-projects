@@ -91,6 +91,10 @@ But let me be clear:
 I’ve already been doing the job.  
 You just haven’t seen the title yet.
 
+🔗 **Originally published on LinkedIn:**  
+https://www.linkedin.com/pulse/quiet-strategist-what-assessments-got-wrongand-real-life-ahmed-hpxfe/
+
+
 ---
 
 ### 🏷 Tags  
