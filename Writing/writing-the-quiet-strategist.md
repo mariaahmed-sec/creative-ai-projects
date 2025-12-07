@@ -1,7 +1,10 @@
 # The Quiet Strategist: What Assessments Got Wrong — And What Real Life Got Right
 **By Maria S. Ahmed**
 
-![Quiet Strategist Cover](writing-quiet-strategist-cover.png)
+<p align="center">
+  <img src="writing-quiet-strategist-cover.png" width="400" alt="Quiet Strategist Cover">
+</p>
+
 
 ---
 
