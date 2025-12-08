@@ -56,7 +56,7 @@ But the work itself will always reveal the mind behind it.
 ---
 
 ### 🔗 LinkedIn article  
-[You Are the Mind, Not the Machine: Rethinking “AI Dependence” in a Changing World][(PASTE_LINKEDIN_URL_HERE)](https://www.linkedin.com/pulse/you-mind-machine-rethinking-ai-dependence-changing-world-ahmed-9oece/)
+[You Are the Mind, Not the Machine: Rethinking “AI Dependence” in a Changing World][(https://www.linkedin.com/pulse/you-mind-machine-rethinking-ai-dependence-changing-world-ahmed-9oece/)]
 
 ### 📌 Hashtags  
 #AIAndHumanity #HumanCreativity #WritersCommunity #PoetryAndProse #InnovationMindset #ThoughtLeadership #WomenInTech #DigitalTools  
