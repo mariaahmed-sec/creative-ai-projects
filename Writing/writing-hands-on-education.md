@@ -2,7 +2,7 @@
 **By Maria S. Ahmed, #OPEN_TO_WORK**  
 Cybersecurity | AI Enthusiast | Quiet Strategist | Tech + Creative Thinker
 
-<img src="https://raw.githubusercontent.com/USERNAME/creative-ai-projects/main/Writing/writing-hands-on-education-cover.png" width="550">
+<img src="https://raw.githubusercontent.com/mariaahmed-sec/creative-ai-projects/main/Writing/writing-hands-on-education-cover.png" width="550">
 
 ---
 
