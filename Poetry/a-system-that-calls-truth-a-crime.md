@@ -53,7 +53,6 @@ and who rebuild their world through truth rather than fear.
 
 ## **Related Files**
 - **PDF Version:** [`a-system-that-calls-truth-a-crime.pdf`](./a-system-that-calls-truth-a-crime.pdf)  
-- **Image Version (PNG):** [`a-system-that-calls-truth-a-crime.png`](./a-system-that-calls-truth-a-crime.png)
 
 ---
 
